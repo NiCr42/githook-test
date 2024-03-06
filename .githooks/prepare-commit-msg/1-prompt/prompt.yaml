@@ -1,0 +1,3 @@
+cmd: .githooks/prepare-commit-msg/1-prompt/prompt
+image:
+  reference: commitizen/commitizen:3
